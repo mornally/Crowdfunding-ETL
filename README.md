@@ -1,1 +1,2 @@
 # Crowdfunding-ETL
+This is an analysis of crowdfunding data that utilizes Python, Pandas and Jupyter Lab to extract and transform the dataset into CSV files. Using SQL queries in PGAdmin, I presented granular views of live crowdfunding campaigns.
